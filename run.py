@@ -4,7 +4,6 @@ import os
 import sys 
 sys.path.append('sentiment_analysis/')
 import math
-
 import data_utils
 import seq2seq_model
 from sentiment_analysis import run
